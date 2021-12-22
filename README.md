@@ -5,7 +5,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=nadaAlruwaythi&&show_icons=true&title_color=459bf5&icon_color=459bf5&text_color=021b2a&bg_color=ffffff" /> <br/>
 
-# SDAIA T5 Boot Camp Projects:
+# SDAIA T5 BootCamp Projects:
 
 <p align="left">
 
