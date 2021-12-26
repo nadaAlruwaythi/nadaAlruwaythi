@@ -1,7 +1,6 @@
 
 
 
-<h1 align="center">Hi , I'm Nada</h1> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=nadaAlruwaythi&&show_icons=true&title_color=459bf5&icon_color=459bf5&text_color=021b2a&bg_color=ffffff" /> <br/>
 
